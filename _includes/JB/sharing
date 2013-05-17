@@ -8,4 +8,3 @@
 {% endcase %}
 
 {% endif %}
-{% include JB/sharing-providers/plusone %}
