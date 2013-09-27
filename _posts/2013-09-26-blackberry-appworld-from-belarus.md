@@ -2,7 +2,7 @@
 layout: post
 title: "[Черновик] Blackberry AppWorld из Беларуси (России, Украины и т.п.)"
 description: "В данной статье я расскажу вам, как скачивать с серверов Blackberry, находясь в странах, в которых нет сервиса Blackberry"
-category:
+category: mobile
 tags: [blackberry, fiddler, playbook]
 ---
 {% include JB/setup %}
