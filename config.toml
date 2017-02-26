@@ -1,0 +1,5 @@
+title = "Gradovich's Home@Web"
+baseurl = "http://gradovich.by/"
+languageCode = "ru-ru"
+theme = "hugo_theme_robust"
+publishDir = "docs"
