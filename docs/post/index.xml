@@ -6,8 +6,22 @@
     <language>en-us</language>
     <author></author>
     <rights>(C) 2017</rights>
-    <updated>2017-02-27 00:51:57 &#43;0300 &#43;03</updated>
+    <updated>2017-03-01 00:02:24 &#43;0300 &#43;03</updated>
 
+    
+      
+        <item>
+          <title>AWS failure 28 Feb 2017</title>
+          <link>http://gradovich.by/post/2017-02-28-AWS-failure/</link>
+          <pubDate>Wed, 01 Mar 2017 00:02:24 &#43;03</pubDate>
+          <author></author>
+          <guid>http://gradovich.by/post/2017-02-28-AWS-failure/</guid>
+          <description>&lt;p&gt;Если коротко, то Amazon AWS сейчас не сладко. Множество сервисов в регионе US-EAST-1 перестали работать, что повлекло сбои в работе таких проектов, как Trello, Slack, Quora и других популярных SaaS платформ.&lt;/p&gt;
+
+&lt;p&gt;За более подробной информацией обращайтесь &lt;a href=&#34;http://venturebeat.com/2017/02/28/aws-is-investigating-s3-issues-affecting-quora-slack-trello/&#34;&gt;сюда&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+      
     
       
         <item>
