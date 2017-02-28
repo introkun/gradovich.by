@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gradovich&#39;s Home@Web </title>
+    <title>Aws on Gradovich&#39;s Home@Web</title>
     <link>http://gradovich.by/tags/aws/index.xml</link>
-    <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <description>Recent content in Aws on Gradovich&#39;s Home@Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <atom:link href="http://gradovich.by/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AWS failure 28 Feb 2017</title>
+      <link>http://gradovich.by/post/2017-02-28-AWS-failure/</link>
+      <pubDate>Wed, 01 Mar 2017 00:02:24 +0300</pubDate>
       
-        <item>
-          <title>AWS failure 28 Feb 2017</title>
-          <link>http://gradovich.by/post/2017-02-28-AWS-failure/</link>
-          <pubDate>Wed, 01 Mar 2017 00:02:24 &#43;03</pubDate>
-          <author></author>
-          <guid>http://gradovich.by/post/2017-02-28-AWS-failure/</guid>
-          <description>&lt;p&gt;Если коротко, то Amazon AWS сейчас не сладко. Множество сервисов в регионе US-EAST-1 перестали работать, что повлекло сбои в работе таких проектов, как Trello, Slack, Quora и других популярных SaaS платформ.&lt;/p&gt;
+      <guid>http://gradovich.by/post/2017-02-28-AWS-failure/</guid>
+      <description>&lt;p&gt;Если коротко, то Amazon AWS сейчас не сладко. Множество сервисов в регионе US-EAST-1 перестали работать, что повлекло сбои в работе таких проектов, как Trello, Slack, Quora и других популярных SaaS платформ.&lt;/p&gt;
 
 &lt;p&gt;За более подробной информацией обращайтесь &lt;a href=&#34;http://venturebeat.com/2017/02/28/aws-is-investigating-s3-issues-affecting-quora-slack-trello/&#34;&gt;сюда&lt;/a&gt;.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>

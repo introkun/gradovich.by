@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gradovich&#39;s Home@Web </title>
+    <title>Gradovich&#39;s Home@Web</title>
     <link>http://gradovich.by/index.xml</link>
-    <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>2017-03-01 00:02:24 &#43;0300 &#43;03</updated>
-
+    <description>Recent content on Gradovich&#39;s Home@Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 01 Mar 2017 00:02:24 +0300</lastBuildDate>
+    <atom:link href="http://gradovich.by/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AWS failure 28 Feb 2017</title>
+      <link>http://gradovich.by/post/2017-02-28-AWS-failure/</link>
+      <pubDate>Wed, 01 Mar 2017 00:02:24 +0300</pubDate>
       
-        <item>
-          <title>AWS failure 28 Feb 2017</title>
-          <link>http://gradovich.by/post/2017-02-28-AWS-failure/</link>
-          <pubDate>Wed, 01 Mar 2017 00:02:24 &#43;03</pubDate>
-          <author></author>
-          <guid>http://gradovich.by/post/2017-02-28-AWS-failure/</guid>
-          <description>&lt;p&gt;Если коротко, то Amazon AWS сейчас не сладко. Множество сервисов в регионе US-EAST-1 перестали работать, что повлекло сбои в работе таких проектов, как Trello, Slack, Quora и других популярных SaaS платформ.&lt;/p&gt;
+      <guid>http://gradovich.by/post/2017-02-28-AWS-failure/</guid>
+      <description>&lt;p&gt;Если коротко, то Amazon AWS сейчас не сладко. Множество сервисов в регионе US-EAST-1 перестали работать, что повлекло сбои в работе таких проектов, как Trello, Slack, Quora и других популярных SaaS платформ.&lt;/p&gt;
 
 &lt;p&gt;За более подробной информацией обращайтесь &lt;a href=&#34;http://venturebeat.com/2017/02/28/aws-is-investigating-s3-issues-affecting-quora-slack-trello/&#34;&gt;сюда&lt;/a&gt;.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>win10 cheap keys</title>
+      <link>http://gradovich.by/post/win10-cheap-keys/</link>
+      <pubDate>Mon, 27 Feb 2017 00:51:57 +0300</pubDate>
       
-        <item>
-          <title>win10 cheap keys</title>
-          <link>http://gradovich.by/post/win10-cheap-keys/</link>
-          <pubDate>Mon, 27 Feb 2017 00:51:57 &#43;03</pubDate>
-          <author></author>
-          <guid>http://gradovich.by/post/win10-cheap-keys/</guid>
-          <description>&lt;p&gt;Не знал, что можно достаточно дешево получить лицензионный ключ Windows 10.&lt;/p&gt;
+      <guid>http://gradovich.by/post/win10-cheap-keys/</guid>
+      <description>&lt;p&gt;Не знал, что можно достаточно дешево получить лицензионный ключ Windows 10.&lt;/p&gt;
 
 &lt;p&gt;На EBay продают легальные ключи от компьютеров с погибшими материнскими платами. В описании к лотам приписано, что помимо цифрового ключа присылают также мертвую материнскую плату, чтобы все было легально.&lt;/p&gt;
 
@@ -40,9 +37,7 @@
 
 &lt;p&gt;Пример лота: &lt;a href=&#34;http://www.ebay.com/itm/152450373785&#34;&gt;http://www.ebay.com/itm/152450373785&lt;/a&gt;&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>

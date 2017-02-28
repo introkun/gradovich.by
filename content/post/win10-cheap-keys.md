@@ -2,7 +2,7 @@
 date = "2017-02-27T00:51:57+03:00"
 title = "win10 cheap keys"
 draft = false
-image = "win10keys.png"
+thumbnail = "images/win10keys.png"
 tags = ["windows", "win10", "win", "genuine", "lifehack"]
 +++
 
