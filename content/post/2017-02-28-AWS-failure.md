@@ -2,7 +2,7 @@
 date = "2017-03-01T00:02:24+03:00"
 title = "AWS failure 28 Feb 2017"
 draft = false
-image = "2017-02-28-AWS-failure.png"
+image = "images/2017-02-28-AWS-failure.png"
 tags = ["saas", "aws", "amazon"]
 +++
 
