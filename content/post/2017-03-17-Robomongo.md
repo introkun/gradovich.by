@@ -1,7 +1,7 @@
 +++
 date = "2017-03-18T18:52:20+03:00"
 title = "Robomongo - еще один проект с белорусскими корнями"
-draft = true
+draft = false
 thumbnail = "images/2017-03-18-robomongo.png"
 tags = ["it", "by", "robomongo", "dev.by", "mongodb"]
 categories = ["it"]
