@@ -5,3 +5,5 @@ theme = "hugo_theme_robust"
 publishDir = "docs"
 googleAnalytics = "UA-41003841-1"
 disqusShortname = "gradovichby"
+[params]
+  custom_css = ["css/style.css"]
