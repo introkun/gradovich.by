@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev.By on Gradovich&#39;s Home@Web</title>
+    <link>http://gradovich.by/tags/dev.by/index.xml</link>
+    <description>Recent content in Dev.By on Gradovich&#39;s Home@Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <atom:link href="http://gradovich.by/tags/dev.by/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Robomongo - еще один проект с белорусскими корнями</title>
+      <link>http://gradovich.by/post/2017-03-17-Robomongo/</link>
+      <pubDate>Sat, 18 Mar 2017 18:52:20 +0300</pubDate>
+      
+      <guid>http://gradovich.by/post/2017-03-17-Robomongo/</guid>
+      <description>&lt;p&gt;Давно пользуюсь Robomongo, приложением, которое позволяет редактировать базы данных MongoDB посредством графического интерфейса,
+но только сегодня узнал, что этот проект, наряду с &lt;a href=&#34;https://www.viber.com&#34;&gt;Viber&lt;/a&gt;, &lt;a href=&#34;http://worldoftanks.ru/&#34;&gt;World of Tanks&lt;/a&gt;, &lt;a href=&#34;http://msqrd.me/&#34;&gt;MSQRD&lt;/a&gt; разработан
+моими соотечественниками из Беларуси.&lt;/p&gt;
+
+&lt;p&gt;Об этом я узнал из статьи &lt;a href=&#34;https://dev.by/lenta/main/r-spasyon&#34;&gt;Robomongo «спасён»: белорусский проект с открытым исходным кодом купили немцы&lt;/a&gt; от 17 марта 2017 на популярном белорусском ИТ портале &lt;a href=&#34;http://dev.by&#34;&gt;dev.by&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Из этой же статьи я узнал, что разработчикам до недавнего времени приходилось не сладко, настолько, что проект спасали через площадку &lt;a href=&#34;http://indiegogo.com&#34;&gt;indiegogo&lt;/a&gt;. Площадка помогла собрать лишь 25% от запланированной суммы в $116,000. К сожалению, данной суммы хватило лишь на недолгую реанимацию Robomongo.&lt;/p&gt;
+
+&lt;p&gt;Согласно статье с официального блога проекта &lt;a href=&#34;http://blog.robomongo.org/robomongo-has-been-acquired-by-3t/&#34;&gt;Robomongo has been acquired by 3T&lt;/a&gt;, проект был поглощен компанией &lt;a href=&#34;https://studio3t.com/&#34;&gt;3T Software Labs&lt;/a&gt;. Сумма сделки пока не разглашается.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

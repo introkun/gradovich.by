@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gradovich.by/post/2017-03-17-Robomongo/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/post/2017-02-28-AWS-failure/</loc>
     <lastmod>2017-03-01T00:02:24+03:00</lastmod>
   </url>
@@ -24,6 +29,23 @@
   </url>
   
   <url>
+    <loc>http://gradovich.by/tags/by/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/dev/index.by/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/tags/genuine/</loc>
     <lastmod>2017-02-27T00:51:57+03:00</lastmod>
     <priority>0</priority>
@@ -31,7 +53,19 @@
   
   <url>
     <loc>http://gradovich.by/</loc>
-    <lastmod>2017-03-01T00:02:24+03:00</lastmod>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/it/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/categories/it/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -42,8 +76,20 @@
   </url>
   
   <url>
+    <loc>http://gradovich.by/tags/mongodb/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/post/</loc>
-    <lastmod>2017-03-01T00:02:24+03:00</lastmod>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/robomongo/</loc>
+    <lastmod>2017-03-18T18:52:20+03:00</lastmod>
     <priority>0</priority>
   </url>
   
