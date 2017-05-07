@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gradovich.by/post/2017-05-08-Baraholka-vs-Kufar/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/post/2017-04-07-Daily-Scrum-mistakes/</loc>
     <lastmod>2017-04-07T10:18:50+03:00</lastmod>
   </url>
@@ -19,6 +24,12 @@
   <url>
     <loc>http://gradovich.by/post/win10-cheap-keys/</loc>
     <lastmod>2017-02-27T00:51:57+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/3ds/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -46,6 +57,12 @@
   </url>
   
   <url>
+    <loc>http://gradovich.by/tags/baraholka/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/tags/by/</loc>
     <lastmod>2017-03-18T18:52:20+03:00</lastmod>
     <priority>0</priority>
@@ -63,6 +80,12 @@
   </url>
   
   <url>
+    <loc>http://gradovich.by/tags/exchange/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/tags/genuine/</loc>
     <lastmod>2017-02-27T00:51:57+03:00</lastmod>
     <priority>0</priority>
@@ -70,7 +93,7 @@
   
   <url>
     <loc>http://gradovich.by/</loc>
-    <lastmod>2017-04-07T10:18:50+03:00</lastmod>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,6 +106,18 @@
   <url>
     <loc>http://gradovich.by/categories/it/</loc>
     <lastmod>2017-03-18T18:52:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/kufar/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/categories/life/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,8 +140,20 @@
   </url>
   
   <url>
+    <loc>http://gradovich.by/tags/nintendo/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gradovich.by/tags/onliner/</loc>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gradovich.by/post/</loc>
-    <lastmod>2017-04-07T10:18:50+03:00</lastmod>
+    <lastmod>2017-05-08T00:47:59+03:00</lastmod>
     <priority>0</priority>
   </url>
   
